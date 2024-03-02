@@ -7,20 +7,20 @@ Developed a model to predict the total amount that customers are willing to pay 
 This information will be used by the company to do the targeted marketing based on the customer profile.
 
 You are given the following attributes:
-–	Customer Name
-–	Customer e-mail
-–	Country
-–	Gender
-–	Age
-–	Annual Salary 
-–	Credit Card Debt 
-–	Net Worth (Asset – Liabilities)
+-	Customer Name
+-	Customer e-mail
+-	Country
+-	Gender
+-	Age
+-	Annual Salary 
+-	Credit Card Debt 
+-	Net Worth (Asset – Liabilities)
 
 The model should predict: 
-–	How much customers are willing to pay (Car_purchase_prediction) for the new vehicle?
+-	How much customers are willing to pay (Car_purchase_prediction) for the new vehicle?
 
 ## Dataset
-Data Source : [Car_purchase_prediction.ipynb](https://github.com/keshavsood80/Car-Purchase-Amount/blob/main/Car_purchase_prediction.ipynb)
+Data Source : [Car_Purchasing_Data](https://github.com/keshavsood80/Car-Purchase-Amount/blob/main/Car_Purchasing_Data%20(1).csv)
 
 ## Agenda
 - Step 1: Import Libraries
@@ -33,12 +33,14 @@ Data Source : [Car_purchase_prediction.ipynb](https://github.com/keshavsood80/Ca
 - Step 8: Evaluate Performance
 
 ## Models used
-
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
 
 # Solution
-- **jupyter Notebook :
+- **Google Collab** : [Car_purchase_prediction.ipynb](https://github.com/keshavsood80/Car-Purchase-Amount/blob/main/Car_purchase_prediction.ipynb)
 
-## Analysis of Clusters
+
 
 
 
