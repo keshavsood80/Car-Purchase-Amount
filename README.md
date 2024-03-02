@@ -1,4 +1,4 @@
-# Car Purchase Amount (Regression)
+# Car Purchase Amount Prediction (Regression)
 Developed a model to predict the total amount that customers are willing to pay for the new car.
 
 ## Problem Statement
