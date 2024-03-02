@@ -1,10 +1,11 @@
 # Car Purchase Amount (Regression)
 Developed a model to predict the total amount that customers are willing to pay for the new car.
-•	Client : Automobile company 
-•	You would like to develop a model to predict the total amount that customers are willing to pay for the new car. 
-This information will be used by the company to do the targeted marketing based on the customer profile.
 
 ## Problem Statement
+- Client : Automobile company
+- You would like to develop a model to predict the total amount that customers are willing to pay for the new car. 
+This information will be used by the company to do the targeted marketing based on the customer profile.
+
 You are given the following attributes:
 –	Customer Name
 –	Customer e-mail
@@ -15,11 +16,11 @@ You are given the following attributes:
 –	Credit Card Debt 
 –	Net Worth (Asset – Liabilities)
 
-•	The model should predict: 
-–	How much customers are willing to pay (Car Purchase Amount) for the new vehicle?
+The model should predict: 
+–	How much customers are willing to pay (Car_purchase_prediction) for the new vehicle?
 
 ## Dataset
-Data Source :
+Data Source : [Car_purchase_prediction.ipynb](https://github.com/keshavsood80/Car-Purchase-Amount/blob/main/Car_purchase_prediction.ipynb)
 
 ## Agenda
 - Step 1: Import Libraries
